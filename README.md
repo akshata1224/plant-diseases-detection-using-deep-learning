@@ -1,6 +1,24 @@
 # plant_diseases_detection_using_deep_learning
 
-A new Flutter project.
+The detection and identification of plant leaf disease using image
+processing have been studied by researchers over the past years. The
+authors have suggested the use of K-means algorithm for the segmentation
+of the image. The algorithm was used to partition the dataset into k
+numbers of distinct nonoverlapping subgroups (clusters) where each data
+point belongs to only one group so as to differentiate the diseased area on
+the leaf, the healthy part and the background.
+  
+# Methodology
+* Image Acquisition and Preparation
+* Pre-processing
+* Segmentation
+* Feature Extraction
+* Classification
+
+# Technologies Used:
+* Flutter
+* Android Studio
+* Machine-Learning
 
 ## Getting Started
 
